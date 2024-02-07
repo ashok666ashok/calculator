@@ -1,0 +1,106 @@
+.wrapper{
+    background-color:rgba(128, 128, 128, 0.416);
+   padding:200px;
+   width: 100vw;
+   height: 100vh;
+   display: grid;
+   justify-content: center;
+}
+
+.input-wrapper{
+    display: grid;
+    justify-content: center;
+    height: 30px;
+    width: 200px;
+   
+    
+
+}
+.input-wrapper input{
+    height: 50px;
+    font-weight: bolder;
+    width: 180px;
+    border: 2px black groove;
+    background-color: rgb(128, 191, 128);
+}
+.row{
+    padding-top:2px;
+    display: grid;
+    display: inline-block;
+    justify-content: center;
+    
+}
+
+.col-2{
+    
+    
+
+}
+.buttons{
+    
+    
+    
+    display: grid;
+   
+    justify-content: center;
+    
+    height: 180px;
+    
+
+    
+    
+    
+}
+.buttons button{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    font-weight: bolder;
+    border: 2px groove rgb(0, 0, 0);
+    border-radius: 5px;
+    display: inline-block;
+    justify-content: center;
+    text-shadow: 1px 1px 1px black;
+    box-shadow: 1px 1px 1px 1px black;
+    border-radius: 50px;
+    color: white;
+    
+    
+}
+.clr{
+    background-color: darkslategray;
+    color: white;
+
+    
+}
+.main{
+    background-color:rgb(0, 0, 0);
+    border-radius: 20px;
+    display: grid;
+    justify-content: center;
+    padding-top: 10px;
+    box-shadow: 0px 0px 50px 10px black;
+    width: 230px;
+    height: 300px;
+    border: 4px black groove;
+    padding-bottom: 10px;
+}
+.container{
+    display: grid;
+    justify-content: center;
+
+}
+
+.opt{
+    background-color: rgb(222, 225, 8);
+    color: white;
+
+    
+   
+
+}
+.clr,.opt,.clearbtn{
+     
+    
+
+}
